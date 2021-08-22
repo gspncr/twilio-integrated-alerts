@@ -10,6 +10,8 @@ Install dependencies first, `npm install`
 
 Run locally using `nodemon server.js`. The app is AWS ELB-ready, will check for port config in the process's env vars.
 
+You will need a Twilio account. [Use my referral link here](www.twilio.com/referral/KP6Q1W), and we can both earn credit! 😉
+
 ## How does it work?
 
 The app exposes three endpoints:
